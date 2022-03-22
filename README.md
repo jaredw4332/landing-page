@@ -1,3 +1,4 @@
 # landing-page
 Landing page project for The Odin Project curriculum 
-(NOT a real company)
+
+(the company featured in the project is NOT REAL)
